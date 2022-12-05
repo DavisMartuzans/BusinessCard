@@ -1,0 +1,6 @@
+{
+    "name": "04dpdmartuzans/business-card",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
